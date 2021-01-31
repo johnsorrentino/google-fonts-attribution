@@ -26,17 +26,20 @@ ruby google_fonts_license_extractor.rb
   "items": [
     {
       "family": "ABeeZee",
-      "license": "SIL Open Font License, 1.1",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011 by Anja Meiners, with Reserved Font Name 'ABeeZee'"
     },
     {
       "family": "Abel",
-      "license": "SIL Open Font License, 1.1",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Abel."
     },
     {
       "family": "Abhaya Libre",
-      "license": "SIL Open Font License, 1.1",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)"
     }
   ]

@@ -32,10 +32,12 @@ class GoogleFontsLicenseExtractor
 
   def create_font(row)
     family = row.css('td.family').text
-    license = row.css('td.license').text
+    license_name = row.css('td.license').text
+    license_url = row.css('td.license > a').first['href']
     @fonts[:items] << {
       family: family,
-      license: license,
+      license_name: license_name,
+      license_url: license_url,
       copyright: nil
     }
   end

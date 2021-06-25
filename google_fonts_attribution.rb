@@ -1,25 +1,21 @@
+# frozen_string_literal: true
+
 require 'nokogiri'
 require 'open-uri'
 require 'json'
 
 # Scrapes the license and copyright information from Google Fonts attribution page.
-class GoogleFontsLicenseExtractor
-  def initialize
-    @fonts = {
-      kind: 'webfonts#webfontList',
-      items: []
-    }
-  end
-
+class GoogleFontsAttribution
   def execute
+    fonts = { kind: 'webfonts#webfontList', items: [] }
     page.css('table > tr').each do |row|
       if row.classes.include?('header')
-        create_font(row)
+        fonts[:items] << item(row)
       else
-        create_variant(row)
+        fonts[:items].last[:copyright] = copyright(row)
       end
     end
-    save_as_json
+    fonts
   end
 
   private
@@ -30,11 +26,11 @@ class GoogleFontsLicenseExtractor
     Nokogiri::HTML(html)
   end
 
-  def create_font(row)
+  def item(row)
     family = row.css('td.family').text
     license_name = row.css('td.license').text
     license_url = row.css('td.license > a').first['href']
-    @fonts[:items] << {
+    {
       family: family,
       license_name: license_name,
       license_url: license_url,
@@ -42,17 +38,8 @@ class GoogleFontsLicenseExtractor
     }
   end
 
-  def create_variant(row)
+  def copyright(row)
     cell = row.css('td.copyright').text
-    copyright = cell.split(': ').last
-    @fonts[:items].last[:copyright] = copyright
-  end
-
-  def save_as_json
-    file = File.open('./google-fonts-license-list.json', 'w+')
-    file.write(JSON.pretty_generate(@fonts))
-    file.close
+    cell.split(': ').last
   end
 end
-
-GoogleFontsLicenseExtractor.new.execute

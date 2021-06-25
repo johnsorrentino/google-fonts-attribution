@@ -12,10 +12,12 @@ This repo include a small script that scrapes the Google Fonts [attribution page
 bundle install
 ```
 
-## Running
+## Usage
 
 ```
-ruby google_fonts_license_extractor.rb
+irb
+require './google-fonts-attribution'
+GoogleFontsAttribution.new.execute
 ```
 
 ## Sample

@@ -1,4 +1,4 @@
-# Google Fonts License Extractor
+# Google Fonts Attribution
 
 The [Google Fonts API](https://developers.google.com/fonts/docs/developer_api) doesn't include license or copyright information which is frustrating if you want to programmatically include this information in your application.
 

@@ -62,6 +62,18 @@
       "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name \"Aguafina Script\""
     },
     {
+      "family": "Akaya Kanadaka",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2015 The Akaya Kanadaka Project Authors (https://github.com/vaishnavimurthy/Akaya-Kanadaka)"
+    },
+    {
+      "family": "Akaya Telivigala",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)"
+    },
+    {
       "family": "Akronim",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -131,7 +143,7 @@
       "family": "Alex Brush",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Name \"Alex Brush\""
+      "copyright": "Copyright 2011 The Alex Brush Project Authors (https://github.com/googlefonts/alex-brush)"
     },
     {
       "family": "Alfa Slab One",
@@ -311,7 +323,13 @@
       "family": "Anton",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2011 The Anton Project Authors"
+      "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)"
+    },
+    {
+      "family": "Antonio",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2013 The Antonio Project Authors (https://github.com/googlefonts/antonioFont)"
     },
     {
       "family": "Arapey",
@@ -341,7 +359,7 @@
       "family": "Archivo",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2019 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)"
+      "copyright": "Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)"
     },
     {
       "family": "Archivo Black",
@@ -359,7 +377,7 @@
       "family": "Aref Ruqaa",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2015-2020 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10."
+      "copyright": "Copyright 2015-2021 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10."
     },
     {
       "family": "Arima Madurai",
@@ -413,7 +431,7 @@
       "family": "Asap",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) with Reserved Font Name \"Asap\"."
+      "copyright": "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)"
     },
     {
       "family": "Asap Condensed",
@@ -558,6 +576,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2018 Bai Jamjuree (https://github.com/cadsondemak/Bai-Jamjuree)"
+    },
+    {
+      "family": "Ballet",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Ballet Project Authors (https://github.com/Omnibus-Type/Ballet)"
     },
     {
       "family": "Baloo 2",
@@ -740,6 +764,12 @@
       "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'"
     },
     {
+      "family": "Benne",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2015 The Benne Project Authors (https://github.com/googlefonts/Benne)"
+    },
+    {
       "family": "Bentham",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -815,7 +845,7 @@
       "family": "Bilbo",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Name \"Bilbo\""
+      "copyright": "Copyright 2011 The Bilbo Project Authors (https://github.com/googlefonts/bilbo)"
     },
     {
       "family": "Bilbo Swash Caps",
@@ -884,6 +914,12 @@
       "copyright": "http://scripts.sil.org/OFL"
     },
     {
+      "family": "Bona Nova",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)"
+    },
+    {
       "family": "Bonbon",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -918,6 +954,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\""
+    },
+    {
+      "family": "Brygada 1918",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Brygada 1918 Project Authors (https://github.com/kosmynkab/Brygada-1918)"
     },
     {
       "family": "Bubblegum Sans",
@@ -1586,6 +1628,12 @@
       "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA. Copyright (c) 2014, Sorkin Type Co, Boston, MA, USA (www.sorkintype.com)"
     },
     {
+      "family": "Dela Gothic One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Dela Gothic Project Authors (https://github.com/syakuzen/DelaGothic)"
+    },
+    {
       "family": "Delius",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -1686,6 +1734,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2011 The Dosis Project Authors (impallari@gmail.com)"
+    },
+    {
+      "family": "DotGothic16",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16/)"
     },
     {
       "family": "Dr Sugiyama",
@@ -1794,6 +1848,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2012 The Encode Project Authors (impallari@gmail.com), with Reserved Font Name \"Encode Sans\"."
+    },
+    {
+      "family": "Encode Sans SC",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'."
     },
     {
       "family": "Encode Sans Semi Condensed",
@@ -1958,6 +2018,12 @@
       "copyright": "Copyright (c) 2012, Fernando Diaz (www.ferfolio.com) with Reserved Font Name 'Fenix'"
     },
     {
+      "family": "Festive",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2015 The Festive Pro Project Authors (https://github.com/googlefonts/festive)"
+    },
+    {
       "family": "Finger Paint",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -2100,6 +2166,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com), with Reserved Font Names \"Fugaz\" and \"Fugaz One\""
+    },
+    {
+      "family": "Fuggles",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Fuggles Pro Project Authors (https://github.com/googlefonts/fuggles)"
     },
     {
       "family": "GFS Didot",
@@ -2693,7 +2765,7 @@
       "family": "Italianno",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Name \"Italianno\""
+      "copyright": "Copyright 2009 The Italianno Project Authors (https://github.com/googlefonts/italianno)"
     },
     {
       "family": "Itim",
@@ -2864,6 +2936,12 @@
       "copyright": "Copyright (c) 2013, Tep Sovichet (it4ug.net sovichet.tep@gmail.com), with Reserved Font Name 'Kantumruy'"
     },
     {
+      "family": "Karantina",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Karantina Project Authors (https://github.com/ronykoch/Karantina)"
+    },
+    {
       "family": "Karla",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -2952,6 +3030,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Kite'"
+    },
+    {
+      "family": "Kiwi Maru",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Kiwi Maru Project Authors (https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)"
     },
     {
       "family": "Knewave",
@@ -3152,6 +3236,12 @@
       "copyright": "Copyright 2011 The Lemonada Project Authors (https://github.com/Gue3bara/Lemonada)"
     },
     {
+      "family": "Lexend",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)"
+    },
+    {
       "family": "Lexend Deca",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -3197,43 +3287,43 @@
       "family": "Libre Barcode 128",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode 128 Text",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode 39",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode 39 Extended",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode 39 Extended Text",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode 39 Text",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017 The Libre Barcode Project Authors (lasse@graphicore.de)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Barcode EAN13 Text",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2017-2019 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
+      "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)"
     },
     {
       "family": "Libre Baskerville",
@@ -3761,7 +3851,7 @@
       "family": "Monda",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Names 'Monda'"
+      "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)"
     },
     {
       "family": "Monofett",
@@ -3968,10 +4058,22 @@
       "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name 'New Rocker'"
     },
     {
+      "family": "New Tegomin",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The New Tegomin Project Authors (https://github.com/nagamaki008/NewTegomin)"
+    },
+    {
       "family": "News Cycle",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2010-2011, Nathan Willis (nwillis@glyphography.com), with Reserved Font Name \"News Cycle.\""
+    },
+    {
+      "family": "Newsreader",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)"
     },
     {
       "family": "Niconne",
@@ -4071,8 +4173,8 @@
     },
     {
       "family": "Noto Serif",
-      "license_name": "Apache License, version 2.0",
-      "license_url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
     },
     {
@@ -4184,6 +4286,12 @@
       "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Offside'"
     },
     {
+      "family": "Oi",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2019 The Oi Project Authors (github.com/kosbarts/Oi)"
+    },
+    {
       "family": "Old Standard TT",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -4238,6 +4346,12 @@
       "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Oregano Italic\""
     },
     {
+      "family": "Orelega One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Orelega One Project Authors (https://github.com/JapanYoshi/Orelega)"
+    },
+    {
       "family": "Orienta",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -4254,6 +4368,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)"
+    },
+    {
+      "family": "Otomanopee One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Otomanopee Project Authors (https://github.com/Gutenberg-Labo), all rights reserved."
     },
     {
       "family": "Over the Rainbow",
@@ -4499,7 +4619,7 @@
       "family": "Pirata One",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2012, Rodrigo Fuenzalida, Nicolas Massi (www.taip.com.ar / abc.taip.com.ar), with Reserved Font Name 'Pirata'"
+      "copyright": "Copyright (c) 2012, Rodrigo Fuenzalida (hello@rfuenzalida.com), Nicolas Massi (www.taip.com.ar / abc.taip.com.ar / nmassi@gmail.com), with Reserved Font Name 'Pirata'"
     },
     {
       "family": "Plaster",
@@ -4676,6 +4796,12 @@
       "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Purple Purse\""
     },
     {
+      "family": "Qahiri",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Qahiri Project Authors (github.com/alif-type/qahiri)."
+    },
+    {
       "family": "Quando",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -4721,7 +4847,7 @@
       "family": "Qwigley",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Name \"Qwigley\""
+      "copyright": "Copyright 2011 The Qwigley Project Authors (https://github.com/googlefonts/qwigley)"
     },
     {
       "family": "Racing Sans One",
@@ -4823,7 +4949,7 @@
       "family": "Recursive",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright 2019 The Recursive Project Authors (info@arrowtype.com)"
+      "copyright": "Copyright 2019 The Recursive Project Authors (github.com/arrowtype/recursive)"
     },
     {
       "family": "Red Hat Display",
@@ -4853,13 +4979,19 @@
       "family": "Reem Kufi",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
-      "copyright": "Copyright  2015-2016 The Reem Kufi Project Authors."
+      "copyright": "Copyright 2015-2021 The Reem Kufi Project Authors (https://github.com/alif-type/reem-kufi)."
     },
     {
       "family": "Reenie Beanie",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2010 Typeco (james@typeco.com). All rights reserved."
+    },
+    {
+      "family": "Reggae One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved."
     },
     {
       "family": "Revalia",
@@ -4932,6 +5064,12 @@
       "license_name": "Apache License, version 2.0",
       "license_url": "http://www.apache.org/licenses/LICENSE-2.0.html",
       "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved."
+    },
+    {
+      "family": "RocknRoll One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)"
     },
     {
       "family": "Rokkitt",
@@ -5046,6 +5184,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2012, Sorkin Type Co with Reserved Font Name 'Rye'"
+    },
+    {
+      "family": "STIX Two Math",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)"
     },
     {
       "family": "Sacramento",
@@ -5268,6 +5412,18 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (www.carrois.com post@carrois.com), with Reserved Font Name 'Share'"
+    },
+    {
+      "family": "Shippori Mincho",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)"
+    },
+    {
+      "family": "Shippori Mincho B1",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)"
     },
     {
       "family": "Shojumaru",
@@ -5558,6 +5714,12 @@
       "copyright": "Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Stardos'. All rights reserved."
     },
     {
+      "family": "Stick",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick/)"
+    },
+    {
       "family": "Stint Ultra Condensed",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -5804,10 +5966,22 @@
       "copyright": "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
     },
     {
+      "family": "Tourney",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Tourney Project Authors (https://github.com/Etcetera-Type-Co/Tourney)"
+    },
+    {
       "family": "Trade Winds",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reserved Font Name \"Trade Winds\""
+    },
+    {
+      "family": "Train One",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Train Project Authors (https://github.com/fontworks-fonts/Train/)"
     },
     {
       "family": "Trirong",
@@ -5832,6 +6006,12 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut"
+    },
+    {
+      "family": "Truculenta",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Truculenta Project Authors (https://github.com/Omnibus-Type/Truculenta)"
     },
     {
       "family": "Trykker",
@@ -5868,6 +6048,12 @@
       "license_name": "Ubuntu Font License, 1.0",
       "license_url": "http://font.ubuntu.com/ufl/",
       "copyright": "Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0"
+    },
+    {
+      "family": "Uchen",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Font designed by Christopher J. Fynn. Copyright Â© 2010 by Dzongkha Development Commission."
     },
     {
       "family": "Ultra",
@@ -6122,6 +6308,12 @@
       "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Yesteryear\""
     },
     {
+      "family": "Yomogi",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved."
+    },
+    {
       "family": "Yrsa",
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
@@ -6150,6 +6342,24 @@
       "license_name": "SIL Open Font License, 1.1",
       "license_url": "http://scripts.sil.org/OFL",
       "copyright": "Copyright 2018 The ZCOOL XiaoWei Project Authors (https://www.github.com/googlefonts/xiaowei)"
+    },
+    {
+      "family": "Zen Dots",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)"
+    },
+    {
+      "family": "Zen Loop",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)"
+    },
+    {
+      "family": "Zen Tokyo Zoo",
+      "license_name": "SIL Open Font License, 1.1",
+      "license_url": "http://scripts.sil.org/OFL",
+      "copyright": "Copyright 2021 The Zen Tokyo Zoo Project Authors (https://github.com/googlefonts/zen-tokyo-zoo)"
     },
     {
       "family": "Zeyada",
